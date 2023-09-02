@@ -1,5 +1,5 @@
 *.exe
 bin/
 ac-library/
-*.sh
+abcsetup.sh
 template.cpp
