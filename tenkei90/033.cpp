@@ -4,7 +4,6 @@ using namespace std;
 int main() {
     int h,w;
     cin >> h >> w;
-    int sum = h * w;
     if( h == 1 || w == 1){
         cout << h * w << endl;
     }
